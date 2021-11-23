@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - :computer: I’m currently studying Computer Science at UBB Cluj
 - :book: I’m willing to learn new things and gain some experience
 - :globe_with_meridians: I’m trying to make the world a better place
-- ⚡ Fun fact: :dog: I love dogs to the moon and back
+- ⚡ Fun fact: :dog: I love dogs and :hocho: Crime investigations
 
 
 ### Languages and Tools:
@@ -32,6 +32,9 @@ Here are some ideas to get you started:
     <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
    <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
    <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="linux" width="40" height="40"/> </a>
+   <a href="https://www.vim.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="bash" width="40" height="40"/></a>
+
     
  </p>
 
