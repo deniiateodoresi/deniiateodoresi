@@ -11,11 +11,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 ### Hi there 👋, I'm Denisa 
+-->
 
-## ✨ I'm an enthusiastic student! ✨
+## ✨ Hi there 👋, I'm Denisa ! ✨
 
 - :computer: I’m currently studying Computer Science at UBB Cluj
 - :book: I’m willing to learn new things and gain some experience
